@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Software Development, MERN Stack and Data Analysis**
 
-- 📫 How to reach me **rajneeshy2700@gmail.com**
+- 📫 Get in touch with me **rajneeshy2700@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
